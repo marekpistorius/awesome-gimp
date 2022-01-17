@@ -1,6 +1,6 @@
 # Awesome-GIMP
 
-https://github.com/Diolinux/PhotoGIMP - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users, including features alike
+https://github.com/Diolinux/PhotoGIMP - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users, including features like
 
 https://github.com/SenlinOS/SLOS-GIMPainter - SLOS-GIMPainter is a brush package for GIMP 2.10.20 or Later.
 
