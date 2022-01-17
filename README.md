@@ -19,4 +19,4 @@
    sequences of multi-spectral volumetric images, hence including 2D
    color images.
 
-- [GIMP-ML] (https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program
+- [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program
