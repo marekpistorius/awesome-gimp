@@ -18,3 +18,5 @@
    generic image datasets, ranging from 1D scalar signals to 3D+t
    sequences of multi-spectral volumetric images, hence including 2D
    color images.
+
+- [GIMP-ML] https://github.com/kritiksoman/GIMP-ML - A.I. for GNU Image Manipulation Program
