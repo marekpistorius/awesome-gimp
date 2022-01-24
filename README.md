@@ -30,3 +30,5 @@ List
            Note: works only in 3.x versions of GIMP
            
 - [Collection of Script by shallowsky](https://github.com/akkana/gimp-plugins) - Various Scripts/Plugins see [GIMP at shallowsky](http://www.shallowsky.com/software/#gimp)
+
+- [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
