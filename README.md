@@ -1,5 +1,12 @@
 # Awesome-GIMP
-   
+
+Preamble
+---------
+[GIMP Website][https://www.gimp.org/]
+
+---------
+List
+---------   
 - [PhotoGIMP ](https://github.com/Diolinux/PhotoGIMP) - A patch for
    optimizing GIMP 2.10+ for Adobe Photoshop users, including features
    like
@@ -9,7 +16,7 @@
    
 - [Registry of gimp scripts
    ](https://github.com/pixlsus/registry.gimp.org_static) - ( Backup of
-   Old Registry of Gimp)
+   Old Registry of Gimp) | Note: some can be broken
    
  - [G'MIC plugin](https://gmic.eu/) - G'MIC is a full-featured
    open-source framework for digital image processing, distributed under
@@ -19,4 +26,5 @@
    sequences of multi-spectral volumetric images, hence including 2D
    color images.
 
-- [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program
+- [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program |
+           Note: works only in 3.x versions of GIMP
