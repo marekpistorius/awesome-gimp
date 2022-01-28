@@ -5,7 +5,7 @@ Preamble
 [GIMP Website][https://www.gimp.org/]
 
 ---------
-List
+## List
 ---------   
 - [PhotoGIMP ](https://github.com/Diolinux/PhotoGIMP) - A patch for
    optimizing GIMP 2.10+ for Adobe Photoshop users, including features
