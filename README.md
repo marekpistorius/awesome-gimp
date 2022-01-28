@@ -2,7 +2,7 @@
 
 Preamble
 ---------
-[GIMP's Website][https://www.gimp.org/]
+[GIMP's Website - https://www.gimp.org/](https://www.gimp.org/)
 
 ## List
 
