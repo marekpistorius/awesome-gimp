@@ -1,8 +1,8 @@
-# Awesome-GIMP
+# Awesome GIMP
 
 Preamble
 ---------
-[GIMP Website][https://www.gimp.org/]
+[GIMP's Website][https://www.gimp.org/]
 
 ## List
 
