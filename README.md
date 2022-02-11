@@ -33,3 +33,15 @@ Preamble
 - [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
 
 - [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP 
+
+
+
+## Contributing
+
+Contributions are always welcome!
+  
+## Feedback
+
+If you have any feedback, please reach out to me at maniu@pm.me
+
+  
