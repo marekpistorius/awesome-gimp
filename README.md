@@ -42,6 +42,6 @@ Contributions are always welcome!
   
 ## Feedback
 
-If you have any feedback, please reach out to me at maniu@pm.me
+If you have any feedback, please reach out to me at marek.pistorius@mpistorius.eu
 
   
