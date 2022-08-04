@@ -34,7 +34,7 @@ Preamble
 
 - [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP 
 
-
+- [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
 
 ## Contributing
 
