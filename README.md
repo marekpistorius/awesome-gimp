@@ -32,6 +32,8 @@ Preamble
 
 - [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
 
+- [Beaver's third party GEGL Plugins for Gimp](https://github.com/LinuxBeaver) - -
+
 - [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP 
 
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
