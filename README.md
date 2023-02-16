@@ -34,6 +34,8 @@ Preamble
 
 - [Beaver's third party GEGL Plugins for Gimp](https://github.com/LinuxBeaver) - -
 
+- [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
+
 - [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP 
 
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
