@@ -32,6 +32,8 @@ Preamble
 
 - [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
 
+- [GIMP Retro Filters](https://github.com/DaveJeffery/gimp_retro) - GIMP Retro Filters
+
 - [Beaver's third party GEGL Plugins for Gimp](https://github.com/LinuxBeaver) - -
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
