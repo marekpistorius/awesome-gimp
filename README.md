@@ -34,6 +34,8 @@ Preamble
 
 - [GIMP Retro Filters](https://github.com/DaveJeffery/gimp_retro) - GIMP Retro Filters
 
+- [python-fu-cartoonify](https://github.com/pascalre/python-fu-cartoonify) - -
+
 - [Beaver's third party GEGL Plugins for Gimp](https://github.com/LinuxBeaver) - -
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
