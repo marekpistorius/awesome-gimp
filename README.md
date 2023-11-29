@@ -40,7 +40,9 @@ Preamble
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
 
-- [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP 
+- [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP
+
+- [BubbleOCR](https://github.com/snakeotakon/BubbleOCR) - It allows you to translate any text of an image, specially designed for text bubbles/balloon ( by using [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract) )
 
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
 
