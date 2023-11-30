@@ -5,4 +5,6 @@ cff-version: 1.2.0
 title: Awesome-GIMP
 message: Please cite this dataset using these metadata.
 type: dataset
-authors: M.P
+authors: 
+  - given-names: mpistorius
+    email: me@maniu.eu
