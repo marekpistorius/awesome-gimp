@@ -32,6 +32,8 @@ Preamble
 
 - [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
 
+- [Collections of Updated Scripts for 2.10+ from different other autohors , updated for 2.10.32](https://github.com/karlhof26/gimp-scheme) 
+
 - [GIMP Retro Filters](https://github.com/DaveJeffery/gimp_retro) - GIMP Retro Filters
 
 - [python-fu-cartoonify](https://github.com/pascalre/python-fu-cartoonify) - -
