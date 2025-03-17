@@ -14,8 +14,7 @@ Preamble
    SLOS-GIMPainter is a brush package for GIMP 2.10.20 or Later.
    
 - [Registry of gimp scripts
-   ](https://github.com/pixlsus/registry.gimp.org_static) - ( Backup of
-   Old Registry of Gimp) | Note: some can be broken
+   ](https://github.com/pixlsus/registry.gimp.org_static) - ALL BROKEN in Gimp 3.x 
    
  - [G'MIC plugin](https://gmic.eu/) - G'MIC is a full-featured
    open-source framework for digital image processing, distributed under
@@ -25,8 +24,7 @@ Preamble
    sequences of multi-spectral volumetric images, hence including 2D
    color images.
 
-- [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program |
-           Note: works only in 3.x versions of GIMP
+- [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program 
            
 - [Collection of Script by shallowsky](https://github.com/akkana/gimp-plugins) - Various Scripts/Plugins see [GIMP at shallowsky](http://www.shallowsky.com/software/#gimp)
 
