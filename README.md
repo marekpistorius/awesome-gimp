@@ -26,21 +26,21 @@ Preamble
 
 - [GIMP-ML](https://github.com/kritiksoman/GIMP-ML) - A.I. for GNU Image Manipulation Program 
            
-- [Collection of Script by shallowsky](https://github.com/akkana/gimp-plugins) - Various Scripts/Plugins see [GIMP at shallowsky](http://www.shallowsky.com/software/#gimp)
+- [Collection of Script by shallowsky](https://github.com/akkana/gimp-plugins) - Various Scripts/Plugins see [GIMP at shallowsky](http://www.shallowsky.com/software/#gimp) - More likely broken
 
-- [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html)
+- [Collection of Script by elsamuko](https://github.com/elsamuko/gimp-elsamuko) - Various Scripts/Plugins see [GIMP at elsamuko](https://elsamuko.github.io/gimp-elsamuko/scripts.html) - possible broken?
 
-- [Collections of Updated Scripts for 2.10+ from different other autohors , updated for 2.10.32](https://github.com/karlhof26/gimp-scheme) 
+- [Collections of Updated Scripts for 2.10+ from different other autohors , updated for 2.10.32](https://github.com/karlhof26/gimp-scheme) - also broken?
 
-- [GIMP Retro Filters](https://github.com/DaveJeffery/gimp_retro) - GIMP Retro Filters
+- [GIMP Retro Filters](https://github.com/DaveJeffery/gimp_retro) - GIMP Retro Filters - also broken
 
-- [python-fu-cartoonify](https://github.com/pascalre/python-fu-cartoonify) - -
+- [python-fu-cartoonify](https://github.com/pascalre/python-fu-cartoonify) - - broken?
 
 - [Beaver's third party GEGL Plugins for Gimp](https://github.com/LinuxBeaver) - -
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
 
-- [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP
+- [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP - possible broken?
 
 - [BubbleOCR](https://github.com/snakeotakon/BubbleOCR) - It allows you to translate any text of an image, specially designed for text bubbles/balloon ( by using [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract) )
 
