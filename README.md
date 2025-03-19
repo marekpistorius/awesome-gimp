@@ -13,9 +13,6 @@ Preamble
 - [SLOS-GIMPainter](https://github.com/SenlinOS/SLOS-GIMPainter) -
    SLOS-GIMPainter is a brush package for GIMP 2.10.20 or Later.
    
-- [Registry of gimp scripts
-   ](https://github.com/pixlsus/registry.gimp.org_static) - ALL BROKEN in Gimp 3.x 
-   
  - [G'MIC plugin](https://gmic.eu/) - G'MIC is a full-featured
    open-source framework for digital image processing, distributed under
    the CeCILL free software licenses (LGPL-like and/or GPL-compatible).
@@ -40,11 +37,10 @@ Preamble
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
 
-- [GIMP-Book](https://github.com/ragtag/gimp-book) -  Multi-page comic book manager for GIMP - possible broken?
-
-- [BubbleOCR](https://github.com/snakeotakon/BubbleOCR) - It allows you to translate any text of an image, specially designed for text bubbles/balloon ( by using [Tesseract-ocr](https://github.com/tesseract-ocr/tesseract) )
-
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
+
+- [Registry of gimp scripts
+   ](https://github.com/pixlsus/registry.gimp.org_static) - ALL BROKEN in Gimp 3.x 
 
 ## Contributing
 
