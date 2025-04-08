@@ -7,7 +7,7 @@ Preamble
 ## List
 
 - [PhotoGIMP ](https://github.com/Diolinux/PhotoGIMP) - A patch for
-   optimizing GIMP 2.10+ for Adobe Photoshop users, including features
+   optimizing GIMP 3+ for Adobe Photoshop users, including features
    like
    
 - [SLOS-GIMPainter](https://github.com/SenlinOS/SLOS-GIMPainter) -
