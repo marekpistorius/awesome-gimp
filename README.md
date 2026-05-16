@@ -35,6 +35,8 @@ Preamble
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
 
+- [ A GIMP plugin for generating WearYourDictionary-style dictionary entry templates](https://github.com/WearYourDictionary/wearyourdictionary-gimp-template-plugin) -  A GIMP plugin for generating WearYourDictionary-style dictionary entry templates. 
+
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
 
 ## Contributing
