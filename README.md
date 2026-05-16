@@ -35,7 +35,9 @@ Preamble
 
 - [The gegl-markup GEGL plug-in](https://gitlab.com/barefootliam/gegl-pango-markup) - -
 
-- [ A GIMP plugin for generating WearYourDictionary-style dictionary entry templates](https://github.com/WearYourDictionary/wearyourdictionary-gimp-template-plugin) -  A GIMP plugin for generating WearYourDictionary-style dictionary entry templates. 
+- [ A GIMP plugin for generating WearYourDictionary-style dictionary entry templates](https://github.com/WearYourDictionary/wearyourdictionary-gimp-template-plugin) -  A GIMP plugin for generating WearYourDictionary-style dictionary entry templates.
+
+- [A Moribund Institute GIMP 3 plug-in for creating raised relief, intaglio-style bevel effect](https://github.com/MorDrawing/mor-engraved-relief-gimp-plugin) -  A Moribund Institute GIMP 3 plug-in for creating raised relief, intaglio-style bevel effects. 
 
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
 
