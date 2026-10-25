@@ -41,6 +41,8 @@ Preamble
 
 - [GIMP-3-Themes by @bunnywaffle ](https://github.com/bunnywaffle/GIMP-3-Themes)
 
+- [8bf-host-bridge-plugin \(Photoshop-compatible filters \) ](https://github.com/distortionary-labs/gimp-8bfhost-bridge)
+
 ## Contributing
 
 Contributions are always welcome!
